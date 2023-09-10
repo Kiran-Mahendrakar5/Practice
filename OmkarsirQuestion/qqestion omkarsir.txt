@@ -1,0 +1,12 @@
+find all keywords
+methods of object
+hashcode
+equals
+toString
+clone
+finalise
+
+SOLID principles
+
+Threads
+Life cycle

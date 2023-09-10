@@ -1,0 +1,17 @@
+html hyper test markup languge 
+invented by markup
+its progrMMING languge
+hrtm created web page
+tags how u write tags 
+<> knows as tags
+somecontect satrting tags
+<somecontect>-elements
+</somecontect>-end tags
+to save html files we use html extension
+
+
+
+<p>
+
+
+</p>

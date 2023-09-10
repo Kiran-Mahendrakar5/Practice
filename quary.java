@@ -1,0 +1,5 @@
+@NamedQuery(name = "findByName", query = "select dto from EmployeeDto dto where dto.employeeName=:nm")
+@NamedQuery(name = "findByNameAndLocation", query = "select dto from EmployeeDto dto where dto.employeeName=:name and dto.location=:lc")
+@NamedQuery(name = "updateNameByLoction", query = "update EmployeeDto dto set dto.employeeName=:name where dto.location=:ln")
+@NamedQuery(name = "deleted", query ="delete from EmployeeDto dto where dto.employeeName=:n")
+@NamedQuery(name ="readAll",query = "select dto from EmployeeDto dto")

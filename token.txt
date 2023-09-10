@@ -1,0 +1,19 @@
+6)(JDB) is used to find and fix bugs in java programs
+8)Heap memory ,string pool
+
+
+select * from xworkz.vehicle_table  where consume='15litre' and type='abs';
+
+
+first user=sdfghjkl
+passward=token 
+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
+
+
+
+
+
+
+class = KiranKishan
+
+method = kiranKishan

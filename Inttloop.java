@@ -1,0 +1,19 @@
+public class Inttloop{
+	public static void main(String[] args){
+		
+		int[] toysInShop = {10000,10100,10200,10300,10400,10500,10600,10700,10800,10900,11000};
+		int[] booksInTheLibrary = {1100,2456,3897,4098,5000,6678,7986,8123,9100,1000};
+		int[] BikeShowroom = {15100,15200,15300,15400,15500,15600,15700,15800,15900,16000};
+		int[] trafficPoliceInBangalore = {167589,1234568,2345678,4567890,765438,876590,2135760,6565679,5677880,1111111};
+		int[]  bmwCarInBangalore = {16100,16200,16300,16400,16500,16600,16700,16800,16900,17000};
+		int[] trafficSiganalsInBangalore = {32100,32200,32300,32400,32500,32600,32700,32800,32900,33000};
+		int[]  trainsInKarnataka = {5000,5100,5200,5300,5400,5500,5600,5700,5800,5900,6000};
+		int[] CollegesInBangalore = {1200,1300,1400,1500,1600,1700,1800,1900,2000,2100};
+		int[] poputionOfTumkur = {2000000,2100000,2200000,2300000,2400000,2500000,2600000,2700000,2800000,2900000,3000000};
+		
+		for(int i=0; i<toysInShop.length; i++){
+			System.out.println(toysInShop[i]);
+		}
+		System.out.println();
+	}
+}

@@ -1,0 +1,117 @@
+basic structure of html?
+<doctype html>
+<html>
+<head>
+<title>Test</title>
+<body>
+</body>
+</head>
+</html>
+2)what is elements?
+elements is everthing starting tag to end tag is called elements
+
+3)what is altribute?
+provide addition information html elements
+
+4)whatis block level elementsand inline level elements?
+staring with the new takes full width available
+
+5)difference between div and span?
+div block tag elements 
+Span wrap around inline elements
+
+6)order and unorderlist?
+<ol>
+<li>kiran</li>
+</ol>
+
+<ul>
+<li>kiran</li>
+</ul>
+
+7)table with 5 heading and data?
+<doctype html>
+<html>
+<head>
+<title>Table</title>
+<body>
+<tr border"1">
+<th>serilanumber</th>
+<th>Science</th>
+<th>botony</th>
+<th>zoology</th>
+<th>sericulture</th>
+</tr>
+<tr>
+<td>1</td>
+<td>100</td>
+<td>100</td>
+<td>100</td>
+<td>100</td>
+</tr>
+</body>
+</head>
+</html>
+
+
+8)application form
+<doctype html>
+<html>
+<head>
+<title>Test</title>
+<body>
+<h2>Apploication form</h2>
+<label>Enterfirstname</label>
+<input type="text,name="entername,placeholder="Enterfirstname">
+<div>
+<label>Enterlastname</label>
+<input type="text,name="entername,placeholder="Enterlastname">
+</div>
+<div>
+<label>Enterpassward</label>
+<input type="passward",name="enterpassward,placeholder="Enterpassward">
+</div>
+<div>
+<label>EnterGender<label>
+<input type="radio name="gender">male
+<input type="radio name="gender">female
+<input type="radio name="gender">other
+</div>
+<div>
+<label>dateofbirth</label>
+<input type="date" name="dateofbirth>
+</div>
+<div>
+<label>Selectcitys</label>
+<select name=city>
+<option>selectcity</option>
+<option>bangalore</option>
+<option>tumkur</option>
+<option>mangalore</option>
+</div>
+<div>
+<label>entergmail</label>
+<input type="text" name="gamil"
+</div>
+<button submit>register</button>
+<button reset>reset</button>
+</body>
+</head>
+</html>
+
+9)special symbol?
+<div>html&copy:2023</div>
+<div>html&reg:2023</div>
+<div>html&trade:2023</div>
+
+10)create image?
+<img src="image" style="width:200px>
+<a href="https://facebook.com" target _black>facebook</a>
+<a href="https://instagram.com" target _black>instagram</a>
+<a href="https://twitter.com" target _black>twitter</a>
+
+11)audio video
+
+
+
+
